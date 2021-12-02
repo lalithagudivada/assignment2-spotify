@@ -1,0 +1,12 @@
+.input{
+    border-radius: 50px;
+    padding: 20px;
+    width:300px;
+    background-color:rgb(144, 173, 231);
+    margin-bottom: 20px;
+    margin-top: 20px;
+    align-self: auto;
+}
+.buttons{
+   padding: 20px;
+}
